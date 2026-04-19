@@ -41,9 +41,9 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social: 
   - title: linkedin
-      url: https://www.linkedin.com/yrive
+    url: https://www.linkedin.com/yrive
   - title: github
-      url: https://yrive.github.io
+    url: https://yrive.github.io
 
 # Email Address (make sure to include "mailto:" before your email!)
 email: 
